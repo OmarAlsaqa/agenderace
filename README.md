@@ -2,11 +2,17 @@
 
 Top label is predicted and bottom label is actual.
 
-![](img/p1.PNG)
+![](imgs/p3.PNG)
 
 Model:
 
+![](imgs/p1.PNG)
 
 
 EVAL:
 
+![](imgs/p2.PNG)
+
+
+Resources:
+https://github.com/jangedoo/age-gender-race-prediction
