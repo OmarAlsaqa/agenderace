@@ -1,4 +1,4 @@
-# M ulti-output agenderace
+# Multi-output agenderace
 
 Top label is predicted and bottom label is actual.
 
